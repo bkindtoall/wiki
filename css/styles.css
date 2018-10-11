@@ -1,9 +1,49 @@
 .jumbotron {
-  float: right;
+  float: center;
+  text-align: left;
 
 }
 .sidebar {
-  width: 30%;
+  width: 12%;
   float: left;
-  background-color: yellow;
+  background-color: lightgrey;
+  border: 8px;
+  padding: 4px;
+  margin-right: 6px;
+  border-color: red;
+
+}
+
+.columnl {
+  width: 400px;
+  float: left;
+}
+
+.columnr {
+  width: 300px;
+  float: left;
+}
+
+.my-classh {
+  padding: 4px;
+  background-color: #b3ffcc;
+}
+
+.my-classb {
+  padding: 4px;
+  background-color: #e6ffee;
+}
+
+.my-classhr {
+  padding: 4px;
+  background-color: #cce6ff;
+}
+
+.my-classbr {
+  padding: 4px;
+  background-color: #e6f3ff;
+}
+
+.top {
+  float: center;
 }
